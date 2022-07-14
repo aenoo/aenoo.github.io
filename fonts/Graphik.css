@@ -1,0 +1,125 @@
+/* ---- Thin ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 100;
+    src: local("Graphik Thin"), url("https://aenoo.github.io/fonts/Graphik/GraphikThin.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 100;
+    src: local("Graphik Thin Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikThinItalic.otf") format("otf");
+}
+
+/* ---- Extralight ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 200;
+    src: local("Graphik Extralight"), url("https://aenoo.github.io/fonts/Graphik/GraphikExtralight.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 200;
+    src: local("Graphik Extralight Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikExtralightItalic.otf") format("otf");
+}
+
+/* ---- Light ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Graphik Light"), url("https://aenoo.github.io/fonts/Graphik/GraphikLight.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 300;
+    src: local("Graphik Light Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikLightItalic.otf") format("otf");
+}
+
+/* ---- Regular ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Graphik Regular"), url("https://aenoo.github.io/fonts/Graphik/GraphikRegular.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 400;
+    src: local("Graphik Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikItalic.otf") format("otf");
+}
+
+/* ---- Medium ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Graphik Medium"), url("https://aenoo.github.io/fonts/Graphik/GraphikMedium.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 500;
+    src: local("Graphik Medium Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikMediumItalic.otf") format("otf");
+}
+
+/* ---- Semibold ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 600;
+    src: local("Graphik Semibold"), url("https://aenoo.github.io/fonts/Graphik/GraphikSemibold.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 600;
+    src: local("Graphik Semibold Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikSemiboldItalic.otf") format("otf");
+}
+
+/* ---- Bold ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Graphik Bold"), url("https://aenoo.github.io/fonts/Graphik/GraphikBold.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 700;
+    src: local("Graphik Bold Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikBoldItalic.otf") format("otf");
+}
+
+/* ---- Black ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Graphik Black"), url("https://aenoo.github.io/fonts/Graphik/GraphikBlack.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 900;
+    src: local("Graphik Black Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikBlackItalic.otf") format("otf");
+}
+
+/* ---- Super ---- */
+@font-face {
+    font-family: "Graphik";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Graphik Super"), url("https://aenoo.github.io/fonts/Graphik/GraphikBlack.otf") format("otf");
+}
+@font-face {
+    font-family: "Graphik";
+    font-style: italic;
+    font-weight: 900;
+    src: local("Graphik Super Italic"), url("https://aenoo.github.io/fonts/Graphik/GraphikBlackItalic.otf") format("otf");
+}
